@@ -5,7 +5,6 @@
 ### Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourportfolio.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsapp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourfacebook)
@@ -17,7 +16,7 @@
 
 #### Programming languages
 ![Swift](https://img.shields.io/badge/-Swift-F7DF1E?style=flat-square&logo=swift&logoColor=black)
-![Objective-C](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Objective-C](https://img.shields.io/badge/-Objective-C-007ACC?style=flat-square&logo=Objective-C&logoColor=white)
 
 #### Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
