@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Recego**
 
-- 🌱 I’m currently learning **Swift Unit Testing**
+- 🌱 I’m currently learning **Advanced IOS App Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hrsshopnil](https://github.com/hrsshopnil)
 
