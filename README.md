@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shopnil Hasan</h1>
 <h3 align="center">A passionate IOS developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Recego**
-
 - 👨‍💻 All of my projects are available at [https://github.com/hrsshopnil](https://github.com/hrsshopnil)
 
 - 💬 Ask me about **SwiftUI, SwiftData, Firebase, IOS Development**
