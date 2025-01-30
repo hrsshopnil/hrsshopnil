@@ -52,5 +52,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrsshopnil&show_icons=true&locale=en&layout=compact" alt="hrsshopnil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrsshopnil&show_icons=true&locale=en" alt="hrsshopnil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrsshopnil&" alt="hrsshopnil" /></p>
