@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Recego**
 
-- 🌱 I’m currently learning **Swift Unit Testing**
-
 - 👨‍💻 All of my projects are available at [https://github.com/hrsshopnil](https://github.com/hrsshopnil)
 
 - 💬 Ask me about **SwiftUI, SwiftData, Firebase, IOS Development**
